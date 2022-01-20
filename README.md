@@ -35,7 +35,7 @@ So, probably heroku is still trying to load my masterpiece. Another way to see m
 ```
 npm install
 ```
-for installing all the other packages for running the app.
+to install all the other packages for running the app.
 * For running mongoDB locally type in the bash:
 ```
 mongod
