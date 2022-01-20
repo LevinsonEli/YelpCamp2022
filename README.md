@@ -3,15 +3,25 @@ YelpCamp2022 - it's a website for people who love campgrounds or just searching 
 This project is deployed to heroku, so you can touch the magic [here][herokuLink].
 
 # Review
-On this website you can create, update, delete campgrounds, leave ratings and reviews to the existing and all these without fear that someone else will destroy your changes, because only the one who created campgrounds and reviews have access to delete or editthem.
+On this website you can create, update, delete campgrounds, leave ratings and reviews to the existing and all these without fear that someone else will destroy your changes, because only the one who created campgrounds and reviews have access to delete or edit them.
 
 # Features
-* full-CRUD manipulations
-* authorization and authentication
-* protection against nonSQL injections
-* mongo atlas database
-* cloudinary storage
-* coockies and sessions
+* Full-CRUD manipulations
+* Authorization and Authentication
+* Protection against nonSQL Injections
+* Mongo Atlas Database
+* Cloudinary Storage
+* Coockies and Sessions
+* Flash Messages
+* Responsive Design
+
+# Stack of technologies
+* NodeJS
+* Express
+* MongoDB
+* EJS
+* Bootstrap
+* Passport, MongoSanitize, Helmet, Joi, SanitizeHTML, Mongoose, MapBox, MulterCloudinaryStorage and other libraries.
 
 
 
