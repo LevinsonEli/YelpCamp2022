@@ -4,4 +4,4 @@ This project is deployed to heroku, so you can touch the magic [here.][website]
 
 
 
-[website]: https:/yelp-cmp.herokuapp.com
+[website]:https:/yelp-cmp.herokuapp.com
