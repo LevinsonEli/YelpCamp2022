@@ -23,6 +23,9 @@ On this website you can create, update, delete campgrounds, leave ratings and re
 * Bootstrap
 * Passport, MongoSanitize, Helmet, Joi, SanitizeHTML, Mongoose, MapBox, MulterCloudinaryStorage and other libraries.
 
-
+# To Run Locally
+So, probably heroku is still trying to load my masterpiece. Another way to see my code alive - is on your machine.
+* Load the project and unpackage it or use a ``` git ``` clone command
+* You need to have node, npm and mongo installed. If you don't have those yet: 
 
 [herokuLink]:https://yelp-cmp.herokuapp.com/
