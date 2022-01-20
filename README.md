@@ -29,9 +29,9 @@ So, probably heroku is still trying to load my masterpiece. Another way to see m
 * You need to have node, npm and mongo installed. If you don't have those yet here you go: [node&npm][nodeLink] | [mongoDB][mongoLink] (or use your mongoDB online)
 * Create a Cloudinary account
 * Create a .env file and provide the next variables there: CLOUDINARY_CLOUD_NAME, CLOUDINARY_KEY, CLOUDINARY_SECRET (that you've got from the cloudinary account)
-* Add MONGO_URI variable, if you have a uri for your mondo DB, inside the .env file.
+* Add MONGO_URI variable, if you have a URI for your mondo DB, inside the .env file.
 * For using/seeing maps: provide the MAPBOX_TOKEN (it's from the [MapBox library][mapBoxLink])
-* Run the following in yuor bash:
+* Run the following in your bash:
 ```
 npm install
 ```
