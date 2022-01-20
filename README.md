@@ -36,10 +36,15 @@ So, probably heroku is still trying to load my masterpiece. Another way to see m
 npm install
 ```
 for installing all the other packages for running the app.
+* For running mongoDB locally type in the bash:
+```
+mongod
+```
 * Now you can start runing the project:
 ```
 node app.js
 ```
+And [here][localHostLink] you go.
 
 
 
@@ -48,3 +53,4 @@ node app.js
 [nodeLink]: https://nodejs.org/en/download/
 [mongoLink]: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 [mapBoxLink]: https://account.mapbox.com/auth/signin/
+[localHostLink]: https://localhost:3000/
