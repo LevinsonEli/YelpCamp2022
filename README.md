@@ -1,2 +1,7 @@
 # YelpCamp2022
-Full-CRUD NodeJS website for camping. With a mongo DB and EJS as front-end side.
+YelpCamp2022 - it's a website for people who love campgrounds or just searching a great place to spend holidays.
+This project is deployed to heroku, so you can touch the magic here.[website]
+
+
+
+[website]: https://google.com
