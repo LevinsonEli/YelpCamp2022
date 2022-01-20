@@ -11,7 +11,7 @@ On this website you can create, update, delete campgrounds, leave ratings and re
 * Protection against nonSQL Injections
 * Mongo Atlas Database
 * Cloudinary Storage
-* Coockies and Sessions
+* Cookies and Sessions
 * Flash Messages
 * Responsive Design
 
