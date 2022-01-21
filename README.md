@@ -6,7 +6,7 @@ This project is deployed to heroku, so you can touch the magic [here][herokuLink
 On this website you can create, update, delete campgrounds, leave ratings and reviews to the existing and all these without fear that someone else will destroy your changes, because only the one who created campgrounds and reviews have access to delete or edit them.
 
 ## Why I did this
-This project was a part of "[Web Development Bootcamp][udemyCourse]" by Colt Steel on Udemy
+This project was a part of "[Web Development Bootcamp][udemyCourse]" by [Colt Steel][udemyColtSteel] on [Udemy][udemy].
 
 ## Features
 * Full-CRUD manipulations
@@ -58,6 +58,8 @@ And [here][localHostLink] you go.
 [mapBoxLink]: https://account.mapbox.com/auth/signin/
 [localHostLink]: https://localhost:3000/
 [udemyCourse]: https://www.udemy.com/course/the-web-developer-bootcamp/
+[udemyColtSteel]: https://www.udemy.com/user/coltsteele/
+[udemy]: https://www.udemy.com/
 
 
 
